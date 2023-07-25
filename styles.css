@@ -1,15 +1,29 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  background-color: white;
   margin: 0;
   padding: 0;
 }
 
 header {
-  text-align: center;
-  background-color: #007bff;
+  display: flex;
+  align-items: center;
+  /* Alinea verticalmente los elementos */
+  background-color: #2a6a46;
   color: white;
   padding: 20px;
+}
+
+header img {
+  max-width: 100px;
+  /* Ajusta el tamaño del logo según tus necesidades */
+  margin-right: 20px;
+  /* Espacio entre el logo y el título */
+}
+
+header h1 {
+  margin: 0;
+  /* Elimina los márgenes predeterminados del título */
 }
 
 .container {
@@ -20,9 +34,9 @@ header {
 .mostrar {
   width: 300px;
   margin-left: 20px;
-  background-color: #f9f9f9;
+  background-color: #FCA41C;
   padding: 20px;
-  border-radius: 5px;
+  border-radius: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
   margin-top: 100px;
   margin-bottom: 100px;
@@ -35,11 +49,22 @@ header {
   margin-bottom: 30px;
 }
 
+.mostrar label.nombreAtomico {
+  display: block;
+  margin-bottom: 20px;
+  color: aliceblue;
+  font-weight: bolder;
+}
+
 .mostrar label {
   display: block;
   margin-bottom: 20px;
-
+  color: black;
+font-weight: bolder;
 }
+
+
+
 
 .mostrar ul {
   list-style: none;
@@ -68,19 +93,21 @@ header {
   flex-wrap: wrap;
   justify-content: center;
   gap: 1px;
-  padding: 10px;
-  background-color: white;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+  padding: 16px;
+  background-color: rgb(255, 255, 255);
   margin-right: 50px;
+    font-size: 20px;
+    color: white;
+    font-weight: bolder;
 }
 
 .tabla li {
   display: flex;
   flex-direction: column;
-  margin-top: 1px;
+  margin-top: 2px;
   width: 70px;
   height: 70px;
-  border: 0.5px solid black;
+  border: 2px solid white;
   border-radius: 5px;
   background-color: #e0e0e0;
   font-size: 12px;
@@ -195,7 +222,8 @@ header {
 .grupo-17 li:nth-child(7),
 .grupo-18 li:nth-child(8) {
   margin-top: 73px;
-  background-color: #3d1981bb;
+  background-color: #C1CA77;
+color: black;
 }
 
 .grupo-3 li:nth-child(6),
@@ -214,19 +242,28 @@ header {
 .grupo-16 li:nth-child(8),
 .grupo-17 li:nth-child(8),
 .grupo-18 li:nth-child(9) {
-  background-color: #84ecf3;
+  background-color: #5A946F
+
+;
+  color: black;
 }
 
 .grupo-1 li:nth-child(1) {
-  background-color: orange;
+  background-color: #ec6912;
+  color: rgb(0, 0, 0);
+    font-weight: bolder;
 }
 
 .grupo-1 li {
-  background-color: #ad8de7;
+  color: white;
+  background-color:#00203E;
+    font-weight: bolder;
 }
 
 .grupo-2 li {
-  background-color: #7141c9;
+  background-color: #F9AC00;
+  color: black;
+  font-weight: bolder;
 }
 
 .grupo-3 li,
@@ -239,7 +276,9 @@ header {
 .grupo-10 li,
 .grupo-11 li,
 .grupo-12 li {
-  background-color: aquamarine;
+  background-color:#0076C6;
+    font-weight: bolder;
+    color: white;
 }
 
 .grupo-3 li:nth-child(3) {
@@ -254,7 +293,8 @@ header {
 .grupo-14 li,
 .grupo-15 li,
 .grupo-16 li:nth-child(6) {
-  background-color: #57db62;
+  background-color: #600F66;
+  color: white;
 }
 
 .grupo-14 li:nth-child(1),
@@ -263,7 +303,8 @@ header {
 .grupo-16 li:nth-child(1),
 .grupo-16 li:nth-child(2),
 .grupo-16 li:nth-child(3) {
-  background-color: #e4ba2f;
+  background-color: #EC6912;
+  color: black;
 }
 
 .grupo-13 li:nth-child(1),
@@ -273,15 +314,16 @@ header {
 .grupo-15 li:nth-child(4),
 .grupo-16 li:nth-child(4),
 .grupo-16 li:nth-child(5) {
-  background-color: #dcf748;
+  background-color: #E00035;
 }
 
 .grupo-17 li {
-  background-color: rgb(238, 46, 46);
+  background-color: #92A60E;
+  color: black;
 }
 
 .grupo-18 li {
-  background-color: #a60ac5;
+  background-color: #005926;
 }
 
 .tabla li label:first-child {
