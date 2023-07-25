@@ -93,7 +93,7 @@ font-weight: bolder;
   flex-wrap: wrap;
   justify-content: center;
   gap: 1px;
-  padding: 16px;
+  padding: 5px;
   background-color: rgb(255, 255, 255);
   margin-right: 50px;
     font-size: 20px;
@@ -353,8 +353,8 @@ footer {
   }
 
   .tabla li {
-    width: 32px;
-    height: 32px;
+    width: 18px;
+    height: 18px;
   }
 
   .tabla li label:nth-child(1) {
@@ -392,7 +392,7 @@ footer {
   .grupo-15,
   .grupo-16,
   .grupo-17 {
-    margin-top: 35px;
+    margin-top: 28px;
   }
   
   .grupo-3,
@@ -405,7 +405,7 @@ footer {
   .grupo-10,
   .grupo-11,
   .grupo-12 {
-    margin-top: 105px;
+    margin-top: 32px;
   }
   
   .grupo-3 li:nth-child(5),
@@ -424,6 +424,6 @@ footer {
   .grupo-16 li:nth-child(7),
   .grupo-17 li:nth-child(7),
   .grupo-18 li:nth-child(8){
-    margin-top: 34px;
+    margin-top: 28px;
   }
 }
