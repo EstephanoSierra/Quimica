@@ -351,8 +351,8 @@ footer {
   }
 
   .tabla li {
-    width: 32px;
-    height: 32px;
+    width: 18px;
+    height: 18px;
   }
 
   .tabla li label:nth-child(1) {
@@ -368,10 +368,7 @@ footer {
   }
 
   .tabla li label:nth-child(3) {
-    justify-content: center;
-    text-align: center;
-    font-size: 6px;
-    margin-top: 0;
+    display: none;
   }
 
   .mostrar {
@@ -390,7 +387,7 @@ footer {
   .grupo-15,
   .grupo-16,
   .grupo-17 {
-    margin-top: 35px;
+    margin-top: 18px;
   }
   
   .grupo-3,
@@ -403,7 +400,7 @@ footer {
   .grupo-10,
   .grupo-11,
   .grupo-12 {
-    margin-top: 105px;
+    margin-top: 54px;
   }
   
   .grupo-3 li:nth-child(5),
@@ -422,6 +419,6 @@ footer {
   .grupo-16 li:nth-child(7),
   .grupo-17 li:nth-child(7),
   .grupo-18 li:nth-child(8){
-    margin-top: 34px;
+    margin-top: 18px;
   }
 }
