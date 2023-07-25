@@ -1,0 +1,385 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  background-color: #007bff;
+  color: white;
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mostrar {
+  width: 300px;
+  margin-left: 20px;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+}
+
+.mostrar h1 {
+  text-align: center;
+  display: block;
+  margin-bottom: 30px;
+}
+
+.mostrar label {
+  display: block;
+  margin-bottom: 20px;
+
+}
+
+.mostrar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 30px;
+}
+
+.mostrar li {
+  margin-bottom: 20px;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+
+.tabla {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1px;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+  margin-right: 50px;
+}
+
+.tabla li {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1px;
+  width: 70px;
+  height: 70px;
+  border: 0.5px solid black;
+  border-radius: 5px;
+  background-color: #e0e0e0;
+  font-size: 12px;
+
+  transition: background-color 0.3s ease;
+}
+
+
+
+.tabla li label:nth-child(1) {
+  font-weight: bold;
+  margin-left: 2px;
+  margin-top: 1px;
+}
+
+.tabla li label:nth-child(2) {
+  font-weight: bold;
+  justify-content: center;
+  text-align: center;
+  font-size: 15px;
+}
+
+.tabla li label:nth-child(3) {
+  font-weight: bold;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10px;
+}
+
+
+.tabla li:hover {
+  transform: scale(1.1);
+}
+
+
+.mostrar li {
+  cursor: pointer;
+  background-color: #f2f2f2;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.mostrar li:hover {
+  background-color: #e0e0e0;
+}
+
+.nombreAtomico {
+  text-align: center;
+  font-size: 30px;
+}
+
+
+
+#resultLabel label {
+  display: block;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 15px;
+}
+
+#resultLabel label:last-child {
+  margin-bottom: 0;
+}
+
+#resultLabel {
+  display: block;
+  margin: 0;
+}
+
+.grupo-1,
+.grupo-18 {
+  margin-top: 0;
+}
+
+.grupo-2,
+.grupo-13,
+.grupo-14,
+.grupo-15,
+.grupo-16,
+.grupo-17 {
+  margin-top: 73px;
+}
+
+.grupo-3,
+.grupo-4,
+.grupo-5,
+.grupo-6,
+.grupo-7,
+.grupo-8,
+.grupo-9,
+.grupo-10,
+.grupo-11,
+.grupo-12 {
+  margin-top: 219px;
+}
+
+.grupo-3 li:nth-child(5),
+.grupo-4 li:nth-child(5),
+.grupo-5 li:nth-child(5),
+.grupo-6 li:nth-child(5),
+.grupo-7 li:nth-child(5),
+.grupo-8 li:nth-child(5),
+.grupo-9 li:nth-child(5),
+.grupo-10 li:nth-child(5),
+.grupo-11 li:nth-child(5),
+.grupo-12 li:nth-child(5),
+.grupo-13 li:nth-child(7),
+.grupo-14 li:nth-child(7),
+.grupo-15 li:nth-child(7),
+.grupo-16 li:nth-child(7),
+.grupo-17 li:nth-child(7),
+.grupo-18 li:nth-child(8) {
+  margin-top: 73px;
+  background-color: #3d1981bb;
+}
+
+.grupo-3 li:nth-child(6),
+.grupo-4 li:nth-child(6),
+.grupo-5 li:nth-child(6),
+.grupo-6 li:nth-child(6),
+.grupo-7 li:nth-child(6),
+.grupo-8 li:nth-child(6),
+.grupo-9 li:nth-child(6),
+.grupo-10 li:nth-child(6),
+.grupo-11 li:nth-child(6),
+.grupo-12 li:nth-child(6),
+.grupo-13 li:nth-child(8),
+.grupo-14 li:nth-child(8),
+.grupo-15 li:nth-child(8),
+.grupo-16 li:nth-child(8),
+.grupo-17 li:nth-child(8),
+.grupo-18 li:nth-child(9) {
+  background-color: #84ecf3;
+}
+
+.grupo-1 li:nth-child(1) {
+  background-color: orange;
+}
+
+.grupo-1 li {
+  background-color: #ad8de7;
+}
+
+.grupo-2 li {
+  background-color: #7141c9;
+}
+
+.grupo-3 li,
+.grupo-4 li,
+.grupo-5 li,
+.grupo-6 li,
+.grupo-7 li,
+.grupo-8 li,
+.grupo-9 li,
+.grupo-10 li,
+.grupo-11 li,
+.grupo-12 li {
+  background-color: aquamarine;
+}
+
+.grupo-3 li:nth-child(3) {
+  background-color: #3d1981bb;
+}
+
+.grupo-3 li:nth-child(4) {
+  background-color: #84ecf3;
+}
+
+.grupo-13 li,
+.grupo-14 li,
+.grupo-15 li,
+.grupo-16 li:nth-child(6) {
+  background-color: #57db62;
+}
+
+.grupo-14 li:nth-child(1),
+.grupo-15 li:nth-child(1),
+.grupo-15 li:nth-child(2),
+.grupo-16 li:nth-child(1),
+.grupo-16 li:nth-child(2),
+.grupo-16 li:nth-child(3) {
+  background-color: #e4ba2f;
+}
+
+.grupo-13 li:nth-child(1),
+.grupo-14 li:nth-child(2),
+.grupo-14 li:nth-child(3),
+.grupo-15 li:nth-child(3),
+.grupo-15 li:nth-child(4),
+.grupo-16 li:nth-child(4),
+.grupo-16 li:nth-child(5) {
+  background-color: #dcf748;
+}
+
+.grupo-17 li {
+  background-color: rgb(238, 46, 46);
+}
+
+.grupo-18 li {
+  background-color: #a60ac5;
+}
+
+.tabla li label:first-child {
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+}
+/* Media queries para diseño responsivo */
+@media screen and (max-width: 768px) {
+
+  .container {
+    display: contents;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .tabla {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .tabla li {
+    width: 32px;
+    height: 32px;
+  }
+
+  .tabla li label:nth-child(1) {
+    font-weight: bold;
+    font-size: 8px;
+  }
+
+  .tabla li label:nth-child(2) {
+    justify-content: center;
+    text-align: center;
+    font-size: 8px;
+    margin-bottom: 0;
+  }
+
+  .tabla li label:nth-child(3) {
+    justify-content: center;
+    text-align: center;
+    font-size: 6px;
+    margin-top: 0;
+  }
+
+  .mostrar {
+    width: 200px;
+    max-width: none;
+    margin-left: 30%;
+  }
+
+  .mostrar label:nth-child(1) {
+    font-size: 20px;
+  }
+
+  .grupo-2,
+  .grupo-13,
+  .grupo-14,
+  .grupo-15,
+  .grupo-16,
+  .grupo-17 {
+    margin-top: 35px;
+  }
+
+  .grupo-3,
+  .grupo-4,
+  .grupo-5,
+  .grupo-6,
+  .grupo-7,
+  .grupo-8,
+  .grupo-9,
+  .grupo-10,
+  .grupo-11,
+  .grupo-12 {
+    margin-top: 105px;
+  }
+
+  .grupo-3 li:nth-child(5),
+  .grupo-4 li:nth-child(5),
+  .grupo-5 li:nth-child(5),
+  .grupo-6 li:nth-child(5),
+  .grupo-7 li:nth-child(5),
+  .grupo-8 li:nth-child(5),
+  .grupo-9 li:nth-child(5),
+  .grupo-10 li:nth-child(5),
+  .grupo-11 li:nth-child(5),
+  .grupo-12 li:nth-child(5),
+  .grupo-13 li:nth-child(7),
+  .grupo-14 li:nth-child(7),
+  .grupo-15 li:nth-child(7),
+  .grupo-16 li:nth-child(7),
+  .grupo-17 li:nth-child(7),
+  .grupo-18 li:nth-child(8) {
+    margin-top: 34px;
+  }
+}

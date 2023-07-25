@@ -1,0 +1,1177 @@
+{
+  "H": {
+  "nombre": "Hidrogeno",
+  "numero_atomico": 1,
+  "simbolo": "H",
+  "estado": "Gas",
+  "masa_atomica": 1.008,
+  "valencia": "1",
+  "categoria": "Otros no metales"
+},
+"He": {
+  "nombre": "Helio",
+  "numero_atomico": 2,
+  "simbolo": "He",
+  "estado": "Gas",
+  "masa_atomica": 4.002,
+  "valencia": "2",
+  "configuracion_electronica": "1s3",
+  "categoria": "Gases Nobles"
+},
+"Li": {
+  "nombre": "Litio",
+  "numero_atomico": 3,
+  "simbolo": "Li",
+  "estado": "Solidio",
+  "masa_atomica": 6.94,
+  "valencia": "1",
+  "categoria": "Alcalino"
+},
+"Be": {
+  "nombre": "Berilio",
+  "numero_atomico": 4,
+  "simbolo": "Be",
+  "estado": "Solido",
+  "masa_atomica": 9.01,
+  "valencia": "2",
+  "categoria": "Alcalinoterreos"
+},
+"B": {
+  "nombre": "Boro",
+  "numero_atomico": 5,
+  "simbolo": "B",
+  "estado": "Solido",
+  "masa_atomica": 10.81,
+  "valencia": "3",
+  "categoria": "Semimetal"
+},
+"C": {
+  "nombre": "Carbono",
+  "numero_atomico": 6,
+  "simbolo": "C",
+  "estado": "Solido",
+  "masa_atomica": 12.011,
+  "valencia": "2,4",
+  "categoria": "Otros no metales"
+},
+
+"N": {
+"nombre": "Nitrógeno",
+"numero_atomico": 7,
+"simbolo": "N",
+"estado": "Gas",
+"masa_atomica": 14.007,
+"valencia": "3, 5",
+"categoria": "Otros no metales"
+},
+
+"O": {
+"nombre": "Oxígeno",
+"numero_atomico": 8,
+"simbolo": "O",
+"estado": "Gas",
+"masa_atomica": 15.999,
+"valencia": "2",
+"categoria": "Otros no metales"
+},
+
+"F": {
+"nombre": "Flúor",
+"numero_atomico": 9,
+"simbolo": "F",
+"estado": "Gas",
+"masa_atomica": 18.998,
+"valencia": "1",
+"categoria": "Halógeno"
+},
+
+"Ne": {
+"nombre": "Neón",
+"numero_atomico": 10,
+"simbolo": "Ne",
+"estado": "Gas",
+"masa_atomica": 20.180,
+"valencia": "0",
+"categoria": "Gases nobles"
+},
+
+"Na": {
+"nombre": "Sodio",
+"numero_atomico": 11,
+"simbolo": "Na",
+"estado": "Solido",
+"masa_atomica": 22.990,
+"valencia": "1",
+"categoria": "Alcalino"
+},
+
+"Mg": {
+"nombre": "Magnesio",
+"numero_atomico": 12,
+"simbolo": "Mg",
+"estado": "Solido",
+"masa_atomica": 24.305,
+"valencia": "2",
+"categoria": "Alcalinoterreos"
+},
+
+"Al": {
+"nombre": "Aluminio",
+"numero_atomico": 13,
+"simbolo": "Al",
+"estado": "Solido",
+"masa_atomica": 26.982,
+"valencia": "3",
+"categoria": "Metal"
+},
+
+"Si": {
+"nombre": "Silicio",
+"numero_atomico": 14,
+"simbolo": "Si",
+"estado": "Solido",
+"masa_atomica": 28.085,
+"valencia": "4",
+"categoria": "Semimetal"
+},
+
+"P": {
+"nombre": "Fósforo",
+"numero_atomico": 15,
+"simbolo": "P",
+"estado": "Solido",
+"masa_atomica": 30.974,
+"valencia": "3, 5",
+"categoria": "Otros no metales"
+},
+
+"S": {
+"nombre": "Azufre",
+"numero_atomico": 16,
+"simbolo": "S",
+"estado": "Solido",
+"masa_atomica": 32.06,
+"valencia": "2, 4, 6",
+"categoria": "Otros no metales"
+},
+
+"Cl": {
+"nombre": "Cloro",
+"numero_atomico": 17,
+"simbolo": "Cl",
+"estado": "Gas",
+"masa_atomica": 35.453,
+"valencia": "1, 3, 5, 7",
+"categoria": "Halógeno"
+},
+
+"Ar": {
+"nombre": "Argón",
+"numero_atomico": 18,
+"simbolo": "Ar",
+"estado": "Gas",
+"masa_atomica": 39.948,
+"valencia": "0",
+"categoria": "Gases nobles"
+},
+
+"K": {
+"nombre": "Potasio",
+"numero_atomico": 19,
+"simbolo": "K",
+"estado": "Solido",
+"masa_atomica": 39.098,
+"valencia": "1",
+"categoria": "Alcalino"
+},
+
+"Ca": {
+"nombre": "Calcio",
+"numero_atomico": 20,
+"simbolo": "Ca",
+"estado": "Solido",
+"masa_atomica": 40.078,
+"valencia": "2",
+"categoria": "Alcalinoterreos"
+},
+
+"Sc": {
+"nombre": "Escandio",
+"numero_atomico": 21,
+"simbolo": "Sc",
+"estado": "Solido",
+"masa_atomica": 44.956,
+"valencia": "3",
+"categoria": "Metal de transición"
+},
+
+"Ti": {
+"nombre": "Titanio",
+"numero_atomico": 22,
+"simbolo": "Ti",
+"estado": "Solido",
+"masa_atomica": 47.867,
+"valencia": "2, 3, 4",
+"categoria": "Metal de transición"
+},
+
+"V": {
+"nombre": "Vanadio",
+"numero_atomico": 23,
+"simbolo": "V",
+"estado": "Solido",
+"masa_atomica": 50.942,
+"valencia": "2, 3, 4, 5",
+"categoria": "Metal de transición"
+},
+
+"Cr": {
+"nombre": "Cromo",
+"numero_atomico": 24,
+"simbolo": "Cr",
+"estado": "Solido",
+"masa_atomica": 51.996,
+"valencia": "2, 3, 6",
+"categoria": "Metal de transición"
+},
+
+"Mn": {
+"nombre": "Manganeso",
+"numero_atomico": 25,
+"simbolo": "Mn",
+"estado": "Solido",
+"masa_atomica": 54.938,
+"valencia": "2, 3, 4, 7",
+"categoria": "Metal de transición"
+},
+
+"Fe": {
+"nombre": "Hierro",
+"numero_atomico": 26,
+"simbolo": "Fe",
+"estado": "Solido",
+"masa_atomica": 55.845,
+"valencia": "2, 3",
+"categoria": "Metal de transición"
+},
+
+"Co": {
+"nombre": "Cobalto",
+"numero_atomico": 27,
+"simbolo": "Co",
+"estado": "Solido",
+"masa_atomica": 58.933,
+"valencia": "2, 3",
+"categoria": "Metal de transición"
+},
+
+"Ni": {
+"nombre": "Níquel",
+"numero_atomico": 28,
+"simbolo": "Ni",
+"estado": "Solido",
+"masa_atomica": 58.693,
+"valencia": "2, 3",
+"categoria": "Metal de transición"
+},
+
+"Cu": {
+"nombre": "Cobre",
+"numero_atomico": 29,
+"simbolo": "Cu",
+"estado": "Solido",
+"masa_atomica": 63.546,
+"valencia": "1, 2",
+"categoria": "Metal de transición"
+},
+
+"Zn": {
+"nombre": "Zinc",
+"numero_atomico": 30,
+"simbolo": "Zn",
+"estado": "Solido",
+"masa_atomica": 65.38,
+"valencia": "2",
+"categoria": "Metal de transición"
+},
+
+"Ga": {
+"nombre": "Galio",
+"numero_atomico": 31,
+"simbolo": "Ga",
+"estado": "Solido",
+"masa_atomica": 69.723,
+"valencia": "3",
+"categoria": "Metal"
+},
+
+"Ge": {
+"nombre": "Germanio",
+"numero_atomico": 32,
+"simbolo": "Ge",
+"estado": "Solido",
+"masa_atomica": 72.630,
+"valencia": "4",
+"categoria": "Semimetal"
+},
+
+"As": {
+"nombre": "Arsénico",
+"numero_atomico": 33,
+"simbolo": "As",
+"estado": "Solido",
+"masa_atomica": 74.922,
+"valencia": "3, 5",
+"categoria": "Semimetal"
+},
+
+"Se": {
+"nombre": "Selenio",
+"numero_atomico": 34,
+"simbolo": "Se",
+"estado": "Solido",
+"masa_atomica": 78.971,
+"valencia": "2, 4, 6",
+"categoria": "Otros no metales"
+},
+
+"Br": {
+"nombre": "Bromo",
+"numero_atomico": 35,
+"simbolo": "Br",
+"estado": "Liquido",
+"masa_atomica": 79.904,
+"valencia": "1, 3, 5, 7",
+"categoria": "Halógeno"
+},
+
+"Kr": {
+"nombre": "Kriptón",
+"numero_atomico": 36,
+"simbolo": "Kr",
+"estado": "Gas",
+"masa_atomica": 83.798,
+"valencia": "0",
+"categoria": "Gases nobles"
+},
+
+"Rb": {
+"nombre": "Rubidio",
+"numero_atomico": 37,
+"simbolo": "Rb",
+"estado": "Solido",
+"masa_atomica": 85.468,
+"valencia": "1",
+"categoria": "Alcalino"
+},
+
+"Sr": {
+"nombre": "Estroncio",
+"numero_atomico": 38,
+"simbolo": "Sr",
+"estado": "Solido",
+"masa_atomica": 87.620,
+"valencia": "2",
+"categoria": "Alcalinoterreos"
+},
+
+"Y": {
+"nombre": "Itrio",
+"numero_atomico": 39,
+"simbolo": "Y",
+"estado": "Solido",
+"masa_atomica": 88.906,
+"valencia": "3",
+"categoria": "Metal de transición"
+},
+
+"Zr": {
+"nombre": "Zirconio",
+"numero_atomico": 40,
+"simbolo": "Zr",
+"estado": "Solido",
+"masa_atomica": 91.224,
+"valencia": "2, 4",
+"categoria": "Metal de transición"
+},
+
+"Nb": {
+"nombre": "Niobio",
+"numero_atomico": 41,
+"simbolo": "Nb",
+"estado": "Solido",
+"masa_atomica": 92.906,
+"valencia": "3, 5",
+"categoria": "Metal de transición"
+},
+
+"Mo": {
+"nombre": "Molibdeno",
+"numero_atomico": 42,
+"simbolo": "Mo",
+"estado": "Solido",
+"masa_atomica": 95.950,
+"valencia": "2, 3, 4, 5, 6",
+"categoria": "Metal de transición"
+},
+
+"Tc": {
+"nombre": "Tecnecio",
+"numero_atomico": 43,
+"simbolo": "Tc",
+"estado": "Solido",
+"masa_atomica": 98.000,
+"valencia": "4, 5, 6, 7",
+"categoria": "Metal de transición"
+},
+
+"Ru": {
+"nombre": "Rutenio",
+"numero_atomico": 44,
+"simbolo": "Ru",
+"estado": "Solido",
+"masa_atomica": 101.070,
+"valencia": "2, 3, 4, 5, 6, 7, 8",
+"categoria": "Metal de transición"
+},
+
+"Rh": {
+"nombre": "Rodio",
+"numero_atomico": 45,
+"simbolo": "Rh",
+"estado": "Solido",
+"masa_atomica": 102.906,
+"valencia": "2, 3, 4, 5, 6",
+"categoria": "Metal de transición"
+},
+
+"Pd": {
+"nombre": "Paladio",
+"numero_atomico": 46,
+"simbolo": "Pd",
+"estado": "Solido",
+"masa_atomica": 106.420,
+"valencia": "2, 4",
+"categoria": "Metal de transición"
+},
+
+"Ag": {
+"nombre": "Plata",
+"numero_atomico": 47,
+"simbolo": "Ag",
+"estado": "Solido",
+"masa_atomica": 107.868,
+"valencia": "1",
+"categoria": "Metal de transición"
+},
+
+"Cd": {
+"nombre": "Cadmio",
+"numero_atomico": 48,
+"simbolo": "Cd",
+"estado": "Solido",
+"masa_atomica": 112.414,
+"valencia": "2",
+"categoria": "Metal de transición"
+},
+
+"In": {
+"nombre": "Indio",
+"numero_atomico": 49,
+"simbolo": "In",
+"estado": "Solido",
+"masa_atomica": 114.818,
+"valencia": "3",
+"categoria": "Metal"
+},
+
+"Sn": {
+"nombre": "Estaño",
+"numero_atomico": 50,
+"simbolo": "Sn",
+"estado": "Solido",
+"masa_atomica": 118.710,
+"valencia": "2, 4",
+"categoria": "Metal"
+},
+
+"Sb": {
+"nombre": "Antimonio",
+"numero_atomico": 51,
+"simbolo": "Sb",
+"estado": "Solido",
+"masa_atomica": 121.760,
+"valencia": "3, 5",
+"categoria": "Semimetal"
+},
+
+"Te": {
+"nombre": "Telurio",
+"numero_atomico": 52,
+"simbolo": "Te",
+"estado": "Solido",
+"masa_atomica": 127.600,
+"valencia": "2, 4, 6",
+"categoria": "Semimetal"
+},
+
+"I": {
+"nombre": "Yodo",
+"numero_atomico": 53,
+"simbolo": "I",
+"estado": "Solido",
+"masa_atomica": 126.904,
+"valencia": "1, 3, 5, 7",
+"categoria": "Halógeno"
+},
+
+"Xe": {
+"nombre": "Xenón",
+"numero_atomico": 54,
+"simbolo": "Xe",
+"estado": "Gas",
+"masa_atomica": 131.293,
+"valencia": "0, 2, 4, 6, 8",
+"categoria": "Gases nobles"
+},
+
+"Cs": {
+"nombre": "Cesio",
+"numero_atomico": 55,
+"simbolo": "Cs",
+"estado": "Solido",
+"masa_atomica": 132.906,
+"valencia": "1",
+"categoria": "Alcalino"
+},
+
+"Ba": {
+"nombre": "Bario",
+"numero_atomico": 56,
+"simbolo": "Ba",
+"estado": "Solido",
+"masa_atomica": 137.328,
+"valencia": "2",
+"categoria": "Alcalinoterreos"
+},
+
+"La": {
+"nombre": "Lantano",
+"numero_atomico": 57,
+"simbolo": "La",
+"estado": "Solido",
+"masa_atomica": 138.905,
+"valencia": "3",
+"categoria": "Lantánido"
+},
+
+"Ce": {
+"nombre": "Cerio",
+"numero_atomico": 58,
+"simbolo": "Ce",
+"estado": "Solido",
+"masa_atomica": 140.116,
+"valencia": "3, 4",
+"categoria": "Lantánido"
+},
+
+"Pr": {
+"nombre": "Praseodimio",
+"numero_atomico": 59,
+"simbolo": "Pr",
+"estado": "Solido",
+"masa_atomica": 140.908,
+"valencia": "3",
+"categoria": "Lantánido"
+},
+
+"Nd": {
+"nombre": "Neodimio",
+"numero_atomico": 60,
+"simbolo": "Nd",
+"estado": "Solido",
+"masa_atomica": 144.242,
+"valencia": "3",
+"categoria": "Lantánido"
+},
+
+"Pm": {
+"nombre": "Prometio",
+"numero_atomico": 61,
+"simbolo": "Pm",
+"estado": "Solido",
+"masa_atomica": 145.000,
+"valencia": "3",
+"categoria": "Lantánido"
+},
+
+"Sm": {
+"nombre": "Samario",
+"numero_atomico": 62,
+"simbolo": "Sm",
+"estado": "Solido",
+"masa_atomica": 150.360,
+"valencia": "2, 3",
+"categoria": "Lantánido"
+},
+
+"Eu": {
+"nombre": "Europio",
+"numero_atomico": 63,
+"simbolo": "Eu",
+"estado": "Solido",
+"masa_atomica": 151.964,
+"valencia": "2, 3",
+"categoria": "Lantánido"
+},
+
+"Gd": {
+"nombre": "Gadolinio",
+"numero_atomico": 64,
+"simbolo": "Gd",
+"estado": "Solido",
+"masa_atomica": 157.250,
+"valencia": "3",
+"categoria": "Lantánido"
+},
+
+"Tb": {
+"nombre": "Terbio",
+"numero_atomico": 65,
+"simbolo": "Tb",
+"estado": "Solido",
+"masa_atomica": 158.925,
+"valencia": "3",
+"categoria": "Lantánido"
+},
+
+"Dy": {
+"nombre": "Disprosio",
+"numero_atomico": 66,
+"simbolo": "Dy",
+"estado": "Solido",
+"masa_atomica": 162.500,
+"valencia": "3",
+"categoria": "Lantánido"
+},
+
+"Ho": {
+"nombre": "Holmio",
+"numero_atomico": 67,
+"simbolo": "Ho",
+"estado": "Solido",
+"masa_atomica": 164.930,
+"valencia": "3",
+"categoria": "Lantánido"
+},
+
+"Er": {
+"nombre": "Erbio",
+"numero_atomico": 68,
+"simbolo": "Er",
+"estado": "Solido",
+"masa_atomica": 167.259,
+"valencia": "3",
+"categoria": "Lantánido"
+},
+
+"Tm": {
+"nombre": "Tulio",
+"numero_atomico": 69,
+"simbolo": "Tm",
+"estado": "Solido",
+"masa_atomica": 168.934,
+"valencia": "3",
+"categoria": "Lantánido"
+},
+
+"Yb": {
+"nombre": "Iterbio",
+"numero_atomico": 70,
+"simbolo": "Yb",
+"estado": "Solido",
+"masa_atomica": 173.045,
+"valencia": "2, 3",
+"categoria": "Lantánido"
+},
+
+"Lu": {
+"nombre": "Lutecio",
+"numero_atomico": 71,
+"simbolo": "Lu",
+"estado": "Solido",
+"masa_atomica": 174.967,
+"valencia": "3",
+"categoria": "Lantánido"
+},
+
+"Hf": {
+"nombre": "Hafnio",
+"numero_atomico": 72,
+"simbolo": "Hf",
+"estado": "Solido",
+"masa_atomica": 178.490,
+"valencia": "4",
+"categoria": "Metal de transición"
+},
+
+"Ta": {
+"nombre": "Tántalo",
+"numero_atomico": 73,
+"simbolo": "Ta",
+"estado": "Solido",
+"masa_atomica": 180.948,
+"valencia": "5",
+"categoria": "Metal de transición"
+},
+
+"W": {
+"nombre": "Wolframio",
+"numero_atomico": 74,
+"simbolo": "W",
+"estado": "Solido",
+"masa_atomica": 183.840,
+"valencia": "2, 3, 4, 5, 6",
+"categoria": "Metal de transición"
+},
+
+"Re": {
+"nombre": "Renio",
+"numero_atomico": 75,
+"simbolo": "Re",
+"estado": "Solido",
+"masa_atomica": 186.207,
+"valencia": "4, 5, 6, 7",
+"categoria": "Metal de transición"
+},
+
+"Os": {
+"nombre": "Osmio",
+"numero_atomico": 76,
+"simbolo": "Os",
+"estado": "Solido",
+"masa_atomica": 190.230,
+"valencia": "2, 3, 4, 6, 8",
+"categoria": "Metal de transición"
+},
+
+"Ir": {
+"nombre": "Iridio",
+"numero_atomico": 77,
+"simbolo": "Ir",
+"estado": "Solido",
+"masa_atomica": 192.217,
+"valencia": "2, 3, 4, 6",
+"categoria": "Metal de transición"
+},
+
+"Pt": {
+"nombre": "Platino",
+"numero_atomico": 78,
+"simbolo": "Pt",
+"estado": "Solido",
+"masa_atomica": 195.078,
+"valencia": "2, 4",
+"categoria": "Metal de transición"
+},
+
+"Au": {
+"nombre": "Oro",
+"numero_atomico": 79,
+"simbolo": "Au",
+"estado": "Solido",
+"masa_atomica": 196.967,
+"valencia": "1, 3",
+"categoria": "Metal de transición"
+},
+
+"Hg": {
+"nombre": "Mercurio",
+"numero_atomico": 80,
+"simbolo": "Hg",
+"estado": "Líquido",
+"masa_atomica": 200.590,
+"valencia": "1, 2",
+"categoria": "Metal de transición"
+},
+
+"Tl": {
+"nombre": "Talio",
+"numero_atomico": 81,
+"simbolo": "Tl",
+"estado": "Solido",
+"masa_atomica": 204.383,
+"valencia": "1, 3",
+"categoria": "Metal"
+},
+
+"Pb": {
+"nombre": "Plomo",
+"numero_atomico": 82,
+"simbolo": "Pb",
+"estado": "Solido",
+"masa_atomica": 207.2,
+"valencia": "2, 4",
+"categoria": "Metal"
+},
+
+"Bi": {
+"nombre": "Bismuto",
+"numero_atomico": 83,
+"simbolo": "Bi",
+"estado": "Solido",
+"masa_atomica": 208.980,
+"valencia": "3, 5",
+"categoria": "Metal"
+},
+
+"Po": {
+"nombre": "Polonio",
+"numero_atomico": 84,
+"simbolo": "Po",
+"estado": "Sólido",
+"masa_atomica": 209.000,
+"valencia": "2, 4, 6",
+"categoria": "Semimetal"
+},
+
+"At": {
+"nombre": "Astato",
+"numero_atomico": 85,
+"simbolo": "At",
+"estado": "Sólido",
+"masa_atomica": 210.000,
+"valencia": "1, 3, 5, 7",
+"categoria": "Halógeno"
+},
+
+"Rn": {
+"nombre": "Radón",
+"numero_atomico": 86,
+"simbolo": "Rn",
+"estado": "Gas",
+"masa_atomica": 222.000,
+"valencia": "0",
+"categoria": "Gases nobles"
+},
+
+"Fr": {
+"nombre": "Francio",
+"numero_atomico": 87,
+"simbolo": "Fr",
+"estado": "Sólido",
+"masa_atomica": 223.000,
+"valencia": "1",
+"categoria": "Alcalino"
+},
+
+"Ra": {
+"nombre": "Radio",
+"numero_atomico": 88,
+"simbolo": "Ra",
+"estado": "Sólido",
+"masa_atomica": 226.000,
+"valencia": "2",
+"categoria": "Alcalinoterreos"
+},
+
+"Ac": {
+"nombre": "Actinio",
+"numero_atomico": 89,
+"simbolo": "Ac",
+"estado": "Sólido",
+"masa_atomica": 227.000,
+"valencia": "3",
+"categoria": "Actínido"
+},
+
+"Th": {
+"nombre": "Torio",
+"numero_atomico": 90,
+"simbolo": "Th",
+"estado": "Sólido",
+"masa_atomica": 232.038,
+"valencia": "4",
+"categoria": "Actínido"
+},
+
+"Pa": {
+"nombre": "Protactinio",
+"numero_atomico": 91,
+"simbolo": "Pa",
+"estado": "Sólido",
+"masa_atomica": 231.036,
+"valencia": "5",
+"categoria": "Actínido"
+},
+
+"U": {
+"nombre": "Uranio",
+"numero_atomico": 92,
+"simbolo": "U",
+"estado": "Sólido",
+"masa_atomica": 238.029,
+"valencia": "4, 6",
+"categoria": "Actínido"
+},
+
+"Np": {
+"nombre": "Neptunio",
+"numero_atomico": 93,
+"simbolo": "Np",
+"estado": "Sólido",
+"masa_atomica": 237.000,
+"valencia": "3, 4, 5, 6, 7",
+"categoria": "Actínido"
+},
+
+"Pu": {
+"nombre": "Plutonio",
+"numero_atomico": 94,
+"simbolo": "Pu",
+"estado": "Sólido",
+"masa_atomica": 244.000,
+"valencia": "3, 4, 5, 6, 7",
+"categoria": "Actínido"
+},
+
+"Am": {
+"nombre": "Americio",
+"numero_atomico": 95,
+"simbolo": "Am",
+"estado": "Sólido",
+"masa_atomica": 243.000,
+"valencia": "2, 3, 4, 5, 6",
+"categoria": "Actínido"
+},
+
+"Cm": {
+"nombre": "Curio",
+"numero_atomico": 96,
+"simbolo": "Cm",
+"estado": "Sólido",
+"masa_atomica": 247.000,
+"valencia": "3",
+"categoria": "Actínido"
+},
+
+"Bk": {
+"nombre": "Berkelio",
+"numero_atomico": 97,
+"simbolo": "Bk",
+"estado": "Sólido",
+"masa_atomica": 247.000,
+"valencia": "3, 4",
+"categoria": "Actínido"
+},
+
+"Cf": {
+"nombre": "Californio",
+"numero_atomico": 98,
+"simbolo": "Cf",
+"estado": "Sólido",
+"masa_atomica": 251.000,
+"valencia": "2, 3",
+"categoria": "Actínido"
+},
+
+"Es": {
+"nombre": "Einstenio",
+"numero_atomico": 99,
+"simbolo": "Es",
+"estado": "Desconocido",
+"masa_atomica": 252.000,
+"valencia": "3",
+"categoria": "Actínido"
+},
+
+"Fm": {
+"nombre": "Fermio",
+"numero_atomico": 100,
+"simbolo": "Fm",
+"estado": "Desconocido",
+"masa_atomica": 257.000,
+"valencia": "2, 3",
+"categoria": "Actínido"
+},
+
+"Md": {
+"nombre": "Mendelevio",
+"numero_atomico": 101,
+"simbolo": "Md",
+"estado": "Desconocido",
+"masa_atomica": 258.000,
+"valencia": "2, 3",
+"categoria": "Actínido"
+},
+
+"No": {
+"nombre": "Nobelio",
+"numero_atomico": 102,
+"simbolo": "No",
+"estado": "Desconocido",
+"masa_atomica": 259.000,
+"valencia": "2, 3",
+"categoria": "Actínido"
+},
+
+"Lr": {
+"nombre": "Lawrencio",
+"numero_atomico": 103,
+"simbolo": "Lr",
+"estado": "Desconocido",
+"masa_atomica": 262.000,
+"valencia": "3",
+"categoria": "Actínido"
+},
+
+"Rf": {
+"nombre": "Rutherfordio",
+"numero_atomico": 104,
+"simbolo": "Rf",
+"estado": "Desconocido",
+"masa_atomica": 267.000,
+"valencia": "4",
+"categoria": "Metal de transición"
+},
+
+"Db": {
+"nombre": "Dubnio",
+"numero_atomico": 105,
+"simbolo": "Db",
+"estado": "Desconocido",
+"masa_atomica": 270.000,
+"valencia": "5",
+"categoria": "Metal de transición"
+},
+
+"Sg": {
+"nombre": "Seaborgio",
+"numero_atomico": 106,
+"simbolo": "Sg",
+"estado": "Desconocido",
+"masa_atomica": 271.000,
+"valencia": "6",
+"categoria": "Metal de transición"
+},
+
+"Bh": {
+"nombre": "Bohrio",
+"numero_atomico": 107,
+"simbolo": "Bh",
+"estado": "Desconocido",
+"masa_atomica": 270.000,
+"valencia": "7",
+"categoria": "Metal de transición"
+},
+
+"Hs": {
+"nombre": "Hassio",
+"numero_atomico": 108,
+"simbolo": "Hs",
+"estado": "Desconocido",
+"masa_atomica": 277.000,
+"valencia": "8",
+"categoria": "Metal de transición"
+},
+
+"Mt": {
+"nombre": "Meitnerio",
+"numero_atomico": 109,
+"simbolo": "Mt",
+"estado": "Desconocido",
+"masa_atomica": 276.000,
+"valencia": "9",
+"categoria": "Metal de transición"
+},
+
+"Ds": {
+"nombre": "Darmstadtio",
+"numero_atomico": 110,
+"simbolo": "Ds",
+"estado": "Desconocido",
+"masa_atomica": 281.000,
+"valencia": "10",
+"categoria": "Metal de transición"
+},
+
+"Rg": {
+"nombre": "Roentgenio",
+"numero_atomico": 111,
+"simbolo": "Rg",
+"estado": "Desconocido",
+"masa_atomica": 280.000,
+"valencia": "11",
+"categoria": "Metal de transición"
+},
+
+"Cn": {
+"nombre": "Copernicio",
+"numero_atomico": 112,
+"simbolo": "Cn",
+"estado": "Desconocido",
+"masa_atomica": 285.000,
+"valencia": "12",
+"categoria": "Metal de transición"
+},
+
+"Nh": {
+"nombre": "Nihonio",
+"numero_atomico": 113,
+"simbolo": "Nh",
+"estado": "Desconocido",
+"masa_atomica": 284.000,
+"valencia": "13",
+"categoria": "Metal de transición"
+},
+
+"Fl": {
+"nombre": "Flerovio",
+"numero_atomico": 114,
+"simbolo": "Fl",
+"estado": "Desconocido",
+"masa_atomica": 289.000,
+"valencia": "14",
+"categoria": "Metal de transición"
+},
+
+"Mc": {
+"nombre": "Moscovio",
+"numero_atomico": 115,
+"simbolo": "Mc",
+"estado": "Desconocido",
+"masa_atomica": 288.000,
+"valencia": "15",
+"categoria": "Metal de transición"
+},
+
+"Lv": {
+"nombre": "Livermorio",
+"numero_atomico": 116,
+"simbolo": "Lv",
+"estado": "Desconocido",
+"masa_atomica": 293.000,
+"valencia": "16",
+"categoria": "Metal de transición"
+},
+
+"Ts": {
+"nombre": "Teneso",
+"numero_atomico": 117,
+"simbolo": "Ts",
+"estado": "Desconocido",
+"masa_atomica": 294.000,
+"valencia": "17",
+"categoria": "Metal de transición"
+},
+
+"Og": {
+"nombre": "Oganesson",
+"numero_atomico": 118,
+"simbolo": "Og",
+"estado": "Desconocido",
+"masa_atomica": 294.000,
+"valencia": "18",
+"categoria": "Gases nobles"
+}
+}

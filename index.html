@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tabla Periódica</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Tabla Periódica de los Elementos</h1>
+    </header>
+    <div class="container">
+      <div class="mostrar">
+        <label id="resultLabel">
+          <label id="nombre" class="nombreAtomico">Hidrogeno</label>
+          <label id="numero_atomico">Numero Atomico: 1</label>
+          <label id="simbolo">Simbolo: H</label>
+          <label id="estado">Estado: Gas</label>
+          <label id="masa_atomica">Masa Atomica: 1.008</label>
+          <label id="valencia">Valencia: 1</label>
+          <label id="categoria">Categoria: Otros no metales</label>
+        </label>
+      </div>
+      <div class="main">
+        <div class="tabla" id="tabla-periodica">
+          <div class="grupo-1">
+            <li id="H">
+              <label>1</label>
+              <label>H</label>
+              <label>Hidrogeno</label>
+            </li>
+            <li id="Li">
+              <label>3</label>
+              <label>Li</label>
+              <label>Litio</label>
+            </li>
+            <li id="Na">
+              <label>11</label>
+              <label>NA</label>
+              <label>Sodio</label>
+            </li>
+            <li id="K">
+              <label>19</label>
+              <label>K</label>
+              <label>Potasio</label>
+            </li>
+            <li id="Rb">
+              <label>37</label>
+              <label>Rb</label>
+              <label>Rubidio</label>
+            </li>
+            <li id="Cs">
+              <label>55</label>
+              <label>Cs</label>
+              <label>Cesio</label>
+            </li>
+            <li id="Fr">
+              <label>87</label>
+              <label>Fr</label>
+              <label>Francio</label>
+            </li>
+          </div>
+
+          <div class="grupo-2">
+            <li id="Be">
+              <label>4</label>
+              <label>Be</label>
+              <label>Berilio</label>
+            </li>
+            <li id="Mg">
+              <label>12</label>
+              <label>Mg</label>
+              <label>Magnesio</label>
+            </li>
+            <li id="Ca">
+              <label>20</label>
+              <label>Ca</label>
+              <label>Calcio</label>
+            </li>
+            <li id="Sr">
+              <label>38</label>
+              <label>Sr</label>
+              <label>Estroncio</label>
+            </li>
+            <li id="Ba">
+              <label>56</label>
+              <label>Ba</label>
+              <label>bario</label>
+            </li>
+            <li id="Ra">
+              <label>88</label>
+              <label>Ra</label>
+              <label>Radio</label>
+            </li>
+          </div>
+
+          <div class="grupo-3">
+            <li id="Sc">
+              <label>21</label>
+              <label>Sc</label>
+              <label>Escandio</label>
+            </li>
+            <li id="Y">
+              <label>39</label>
+              <label>Y</label>
+              <label>Itrio</label>
+            </li>
+          </div>
+
+          <div class="grupo-4">
+            <li id="Ti">
+              <label>22</label>
+              <label>Ti</label>
+              <label>titanio</label>
+            </li>
+            <li id="Zr">
+              <label>40</label>
+              <label>Zr</label>
+              <label>Circonio</label>
+            </li>
+            <li id="Hf">
+              <label>72</label>
+              <label>Hf</label>
+              <label>Hafnio</label>
+            </li>
+            <li id="Rf">
+              <label>104</label>
+              <label>Rf</label>
+              <label>Rutherfordio</label>
+            </li>
+            <li id="La">
+              <label>57</label>
+              <label>La</label>
+              <label>lantano</label>
+            </li>
+            <li id="Ac">
+              <label>89</label>
+              <label>Ac</label>
+              <label>Actinio</label>
+            </li>
+          </div>
+
+          <div class="grupo-5">
+            <li id="V">
+              <label>23</label>
+              <label>V</label>
+              <label>Vanadio</label>
+            </li>
+            <li id="Nb">
+              <label>41</label>
+              <label>Nb</label>
+              <label>Niobio</label>
+            </li>
+            <li id="Ta">
+              <label>73</label>
+              <label>Ta</label>
+              <label>Tantalo</label>
+            </li>
+            <li id="Db">
+              <label>105</label>
+              <label>Db</label>
+              <label>Dubnio</label>
+            </li>
+            <li id="Ce">
+              <label>58</label>
+              <label>Ce</label>
+              <label>Cerio</label>
+            </li>
+            <li id="Th">
+              <label>90</label>
+              <label>Th</label>
+              <label>Torio</label>
+            </li>
+          </div>
+
+          <div class="grupo-6">
+            <li id="Cr">
+              <label>24</label>
+              <label>Cr</label>
+              <label>Cromo</label>
+            </li>
+            <li id="Mo">
+              <label>42</label>
+              <label>Mo</label>
+              <label>Molibdeno</label>
+            </li>
+            <li id="W">
+              <label>74</label>
+              <label>W</label>
+              <label>Wolframio</label>
+            </li>
+            <li id="Sg">
+              <label>106</label>
+              <label>Sg</label>
+              <label>Seaborgio</label>
+            </li>
+            <li id="Pr">
+              <label>59</label>
+              <label>Pr</label>
+              <label>Praseodimio</label>
+            </li>
+            <li id="Pa">
+              <label>91</label>
+              <label>Pa</label>
+              <label>Proctactinio</label>
+            </li>
+          </div>
+
+          <div class="grupo-7">
+            <li id="Mn">
+              <label>25</label>
+              <label>Mn</label>
+              <label>Manganeso</label>
+            </li>
+            <li id="Tc">
+              <label>43</label>
+              <label>Tc</label>
+              <label>Tecnecio</label>
+            </li>
+            <li id="Re">
+              <label>75</label>
+              <label>Re</label>
+              <label>Renio</label>
+            </li>
+            <li id="Bh">
+              <label>107</label>
+              <label>Bh</label>
+              <label>Bohrio</label>
+            </li>
+            <li id="Nd">
+              <label>60</label>
+              <label>Nd</label>
+              <label>Neodimio</label>
+            </li>
+            <li id="U">
+              <label>92</label>
+              <label>U</label>
+              <label>Uranio</label>
+            </li>
+          </div>
+
+          <div class="grupo-8">
+            <li id="Fe">
+              <label>26</label>
+              <label>Fe</label>
+              <label>Hierro</label>
+            </li>
+            <li id="Ru">
+              <label>44</label>
+              <label>Ru</label>
+              <label>Rutenio</label>
+            </li>
+            <li id="Os">
+              <label>76</label>
+              <label>Os</label>
+              <label>Osmio</label>
+            </li>
+            <li id="Hs">
+              <label>108</label>
+              <label>Hs</label>
+              <label>Hasio</label>
+            </li>
+            <li id="Pm">
+              <label>61</label>
+              <label>Pm</label>
+              <label>Prometio</label>
+            </li>
+            <li id="Np">
+              <label>93</label>
+              <label>Np</label>
+              <label>Neptunio</label>
+            </li>
+          </div>
+
+          <div class="grupo-9">
+            <li id="Co">
+              <label>27</label>
+              <label>Co</label>
+              <label>Cobalto</label>
+            </li>
+            <li id="Rh">
+              <label>45</label>
+              <label>Rh</label>
+              <label>Rodio</label>
+            </li>
+            <li id="Ir">
+              <label>77</label>
+              <label>Ir</label>
+              <label>iridio</label>
+            </li>
+            <li id="Mt">
+              <label>109</label>
+              <label>Mt</label>
+              <label>Meitnerio</label>
+            </li>
+            <li id="Sm">
+              <label>62</label>
+              <label>Sm</label>
+              <label>Samario</label>
+            </li>
+            <li id="Pu">
+              <label>94</label>
+              <label>Pu</label>
+              <label>Plutonio</label>
+            </li>
+          </div>
+
+          <div class="grupo-10">
+            <li id="Ni">
+              <label>28</label>
+              <label>Ni</label>
+              <label>Niquel</label>
+            </li>
+            <li id="Pd">
+              <label>46</label>
+              <label>Pd</label>
+              <label>Paladio</label>
+            </li>
+            <li id="Pt">
+              <label>78</label>
+              <label>Pt</label>
+              <label>Platino</label>
+            </li>
+            <li id="Ds">
+              <label>110</label>
+              <label>Ds</label>
+              <label>Darmstatio</label>
+            </li>
+            <li id="Eu">
+              <label>63</label>
+              <label>Eu</label>
+              <label>Europio</label>
+            </li>
+            <li id="Am">
+              <label>95</label>
+              <label>Am</label>
+              <label>Americio</label>
+            </li>
+          </div>
+
+          <div class="grupo-11">
+            <li id="Cu">
+              <label>29</label>
+              <label>Cu</label>
+              <label>Cobre</label>
+            </li>
+            <li id="Ag">
+              <label>47</label>
+              <label>Ag</label>
+              <label>Plata</label>
+            </li>
+            <li id="Au">
+              <label>79</label>
+              <label>Au</label>
+              <label>Oro</label>
+            </li>
+            <li id="Rg">
+              <label>111</label>
+              <label>Rg</label>
+              <label>Roentgenio</label>
+            </li>
+            <li id="Gd">
+              <label>64</label>
+              <label>Gd</label>
+              <label>Gadolinio</label>
+            </li>
+            <li id="Cm">
+              <label>96</label>
+              <label>Cm</label>
+              <label>Curio</label>
+            </li>
+          </div>
+
+          <div class="grupo-12">
+            <li id="Zn">
+              <label>30</label>
+              <label>Zn</label>
+              <label>Zinc</label>
+            </li>
+            <li id="Cd">
+              <label>48</label>
+              <label>Cd</label>
+              <label>Cadmio</label>
+            </li>
+            <li id="Hg">
+              <label>80</label>
+              <label>Hg</label>
+              <label>Mercurio</label>
+            </li>
+            <li id="Cn">
+              <label>112</label>
+              <label>Cn</label>
+              <label>Copernicio</label>
+            </li>
+            <li id="Tb">
+              <label>65</label>
+              <label>Tb</label>
+              <label>Terbio</label>
+            </li>
+            <li id="Bk">
+              <label>97</label>
+              <label>Bk</label>
+              <label>Berkelio</label>
+            </li>
+          </div>
+
+          <div class="grupo-13">
+            <li id="B">
+              <label>5</label>
+              <label>B</label>
+              <label>Boro</label>
+            </li>
+            <li id="Al">
+              <label>13</label>
+              <label>Al</label>
+              <label>Aluminio</label>
+            </li>
+            <li id="Ga">
+              <label>31</label>
+              <label>Ga</label>
+              <label>Galio</label>
+            </li>
+            <li id="In">
+              <label>49</label>
+              <label>In</label>
+              <label>Indio</label>
+            </li>
+            <li id="Tl">
+              <label>81</label>
+              <label>Tl</label>
+              <label>Talio</label>
+            </li>
+            <li id="Nh">
+              <label>113</label>
+              <label>Nh</label>
+              <label>Nihonio</label>
+            </li>
+            <li id="Dy">
+              <label>66</label>
+              <label>Dy</label>
+              <label>Disprosio</label>
+            </li>
+            <li id="Cf">
+              <label>98</label>
+              <label>Cf</label>
+              <label>Californio</label>
+            </li>
+          </div>
+
+          <div class="grupo-14">
+            <li id="C">
+              <label>6</label>
+              <label>C</label>
+              <label>Carbono</label>
+            </li>
+            <li id="Si">
+              <label>14</label>
+              <label>Si</label>
+              <label>Silicio</label>
+            </li>
+            <li id="Ge">
+              <label>32</label>
+              <label>Ge</label>
+              <label>Germanio</label>
+            </li>
+            <li id="Sn">
+              <label>50</label>
+              <label>Sn</label>
+              <label>Estaño</label>
+            </li>
+            <li id="Pb">
+              <label>82</label>
+              <label>Pb</label>
+              <label>Plomo</label>
+            </li>
+            <li id="Fl">
+              <label>114</label>
+              <label>Fl</label>
+              <label>Flerovio</label>
+            </li>
+            <li id="Ho">
+              <label>67</label>
+              <label>Ho</label>
+              <label>Holmio</label>
+            </li>
+            <li id="Es">
+              <label>99</label>
+              <label>Es</label>
+              <label>Einstenio</label>
+            </li>
+          </div>
+
+          <div class="grupo-15">
+            <li id="N">
+              <label>7</label>
+              <label>N</label>
+              <label>Nitrogeno</label>
+            </li>
+            <li id="P">
+              <label>15</label>
+              <label>P</label>
+              <label>Fosforo</label>
+            </li>
+            <li id="As">
+              <label>33</label>
+              <label>As</label>
+              <label>Arsenico</label>
+            </li>
+            <li id="Sb">
+              <label>51</label>
+              <label>Sb</label>
+              <label>Antimonio</label>
+            </li>
+            <li id="Bi">
+              <label>83</label>
+              <label>Bi</label>
+              <label>Bismuto</label>
+            </li>
+            <li id="Mc">
+              <label>115</label>
+              <label>Mc</label>
+              <label>Moscovio</label>
+            </li>
+            <li id="Er">
+              <label>68</label>
+              <label>Er</label>
+              <label>Erbio</label>
+            </li>
+            <li id="Fm">
+              <label>100</label>
+              <label>Fm</label>
+              <label>Fermio</label>
+            </li>
+          </div>
+
+          <div class="grupo-16">
+            <li id="O">
+              <label>8</label>
+              <label>O</label>
+              <label>Oxigeno</label>
+            </li>
+            <li id="S">
+              <label>16</label>
+              <label>S</label>
+              <label>Azufre</label>
+            </li>
+            <li id="Se">
+              <label>34</label>
+              <label>Se</label>
+              <label>Selenio</label>
+            </li>
+            <li id="Te">
+              <label>52</label>
+              <label>Te</label>
+              <label>Telurio</label>
+            </li>
+            <li id="Po">
+              <label>84</label>
+              <label>Po</label>
+              <label>Polonio</label>
+            </li>
+            <li id="Lv">
+              <label>116</label>
+              <label>Lv</label>
+              <label>Livermorio</label>
+            </li>
+            <li id="Tm">
+              <label>69</label>
+              <label>Tm</label>
+              <label>Tulio</label>
+            </li>
+            <li id="Md">
+              <label>101</label>
+              <label>Md</label>
+              <label>Mendelevio</label>
+            </li>
+          </div>
+
+          <div class="grupo-17">
+            <li id="F">
+              <label>9</label>
+              <label>F</label>
+              <label>Fluor</label>
+            </li>
+            <li id="Cl">
+              <label>17</label>
+              <label>Cl</label>
+              <label>Cloro</label>
+            </li>
+            <li id="Br">
+              <label>35</label>
+              <label>Br</label>
+              <label>Bromo</label>
+            </li>
+            <li id="I">
+              <label>53</label>
+              <label>I</label>
+              <label>Yodo</label>
+            </li>
+            <li id="At">
+              <label>85</label>
+              <label>At</label>
+              <label>Astato</label>
+            </li>
+            <li id="Ts">
+              <label>117</label>
+              <label>Ts</label>
+              <label>Teneso</label>
+            </li>
+            <li id="Yb">
+              <label>70</label>
+              <label>Yb</label>
+              <label>iterbio</label>
+            </li>
+            <li id="No">
+              <label>102</label>
+              <label>No</label>
+              <label>Nobelio</label>
+            </li>
+          </div>
+
+          <div class="grupo-18">
+            <li id="He">
+              <label>2</label>
+              <label>He</label>
+              <label>Helio</label>
+            </li>
+            <li id="Ne">
+              <label>10</label>
+              <label>Ne</label>
+              <label>Neon</label>
+            </li>
+            <li id="Ar">
+              <label>18</label>
+              <label>Ar</label>
+              <label>Argon</label>
+            </li>
+            <li id="Kr">
+              <label>36</label>
+              <label>kr</label>
+              <label>Kripton</label>
+            </li>
+            <li id="Xe">
+              <label>54</label>
+              <label>Xe</label>
+              <label>Xenon</label>
+            </li>
+            <li id="Rn">
+              <label>86</label>
+              <label>Rn</label>
+              <label>Radon</label>
+            </li>
+            <li id="Og">
+              <label>118</label>
+              <label>Og</label>
+              <label>Oganeson</label>
+            </li>
+            <li id="Lu">
+              <label>71</label>
+              <label>Lu</label>
+              <label>Lutecio</label>
+            </li>
+            <li id="Lr">
+              <label>103</label>
+              <label>Lr</label>
+              <label>Lawrencio</label>
+            </li>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer></footer>
+  </body>
+  <script src="script.js"></script>
+</html>
