@@ -370,10 +370,7 @@ footer {
   }
 
   .tabla li label:nth-child(3) {
-    justify-content: center;
-    text-align: center;
-    font-size: 6px;
-    margin-top: 0;
+    display:none;
   }
 
   .mostrar {
