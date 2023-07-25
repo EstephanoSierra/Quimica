@@ -351,19 +351,19 @@ footer {
   }
 
   .tabla li {
-    width: 18px;
-    height: 18px;
+    width: 14px;
+    height: 14px;
   }
 
   .tabla li label:nth-child(1) {
     font-weight: bold;
-    font-size: 8px;
+    font-size: 5px;
   }
 
   .tabla li label:nth-child(2) {
     justify-content: center;
     text-align: center;
-    font-size: 8px;
+    font-size: 7px;
     margin-bottom: 0;
   }
 
@@ -387,7 +387,7 @@ footer {
   .grupo-15,
   .grupo-16,
   .grupo-17 {
-    margin-top: 18px;
+    margin-top: 16px;
   }
   
   .grupo-3,
@@ -400,7 +400,7 @@ footer {
   .grupo-10,
   .grupo-11,
   .grupo-12 {
-    margin-top: 54px;
+    margin-top: 45px;
   }
   
   .grupo-3 li:nth-child(5),
@@ -419,6 +419,6 @@ footer {
   .grupo-16 li:nth-child(7),
   .grupo-17 li:nth-child(7),
   .grupo-18 li:nth-child(8){
-    margin-top: 18px;
+    margin-top: 16px;
   }
 }
