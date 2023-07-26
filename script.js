@@ -22,6 +22,9 @@ function obtenerDatos(id, jsonData) {
 
     const categoria = document.getElementById("categoria");
     categoria.textContent = `Categoria: ${elemento.categoria}`;
+
+        const carga = document.getElementById("carga");
+    carga.textContent = `carga: ${elemento.carga}`;
   } 
 }
 

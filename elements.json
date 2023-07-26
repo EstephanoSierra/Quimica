@@ -6,7 +6,8 @@
   "estado": "Gas",
   "masa_atomica": 1.008,
   "valencia": "1",
-  "categoria": "Otros no metales"
+  "categoria": "Otros no metales",
+  "carga": "1s^1"
 },
 "He": {
   "nombre": "Helio",
@@ -16,7 +17,8 @@
   "masa_atomica": 4.002,
   "valencia": "2",
   "configuracion_electronica": "1s3",
-  "categoria": "Gases Nobles"
+  "categoria": "Gases Nobles",
+  "carga": "1s^2"
 },
 "Li": {
   "nombre": "Litio",
@@ -25,7 +27,8 @@
   "estado": "Solidio",
   "masa_atomica": 6.94,
   "valencia": "1",
-  "categoria": "Alcalino"
+  "categoria": "Alcalino",
+  "carga": " [He]2s^1"
 },
 "Be": {
   "nombre": "Berilio",
@@ -34,7 +37,8 @@
   "estado": "Solido",
   "masa_atomica": 9.01,
   "valencia": "2",
-  "categoria": "Alcalinoterreos"
+  "categoria": "Alcalinoterreos",
+  "carga": "[He]2s^2"
 },
 "B": {
   "nombre": "Boro",
@@ -43,7 +47,8 @@
   "estado": "Solido",
   "masa_atomica": 10.81,
   "valencia": "3",
-  "categoria": "Semimetal"
+  "categoria": "Semimetal",
+  "carga": "[He]2s^2 2p^1"
 },
 "C": {
   "nombre": "Carbono",
@@ -52,7 +57,8 @@
   "estado": "Solido",
   "masa_atomica": 12.011,
   "valencia": "2,4",
-  "categoria": "Otros no metales"
+  "categoria": "Otros no metales",
+  "carga": "[He]2s^2 2p^2"
 },
 
 "N": {
@@ -62,7 +68,8 @@
 "estado": "Gas",
 "masa_atomica": 14.007,
 "valencia": "3, 5",
-"categoria": "Otros no metales"
+"categoria": "Otros no metales",
+  "carga": "[He]2s^2 2p^3"
 },
 
 "O": {
@@ -72,7 +79,8 @@
 "estado": "Gas",
 "masa_atomica": 15.999,
 "valencia": "2",
-"categoria": "Otros no metales"
+"categoria": "Otros no metales",
+  "carga": "[He]2s^2 2p^4"
 },
 
 "F": {
@@ -82,7 +90,8 @@
 "estado": "Gas",
 "masa_atomica": 18.998,
 "valencia": "1",
-"categoria": "Halógeno"
+"categoria": "Halógeno",
+  "carga": "[He]2s^2 2p^5"
 },
 
 "Ne": {
@@ -92,7 +101,8 @@
 "estado": "Gas",
 "masa_atomica": 20.180,
 "valencia": "0",
-"categoria": "Gases nobles"
+"categoria": "Gases nobles",
+  "carga": "[He]2s^2 2p^6"
 },
 
 "Na": {
@@ -102,7 +112,8 @@
 "estado": "Solido",
 "masa_atomica": 22.990,
 "valencia": "1",
-"categoria": "Alcalino"
+"categoria": "Alcalino",
+  "carga": ""
 },
 
 "Mg": {
@@ -112,7 +123,8 @@
 "estado": "Solido",
 "masa_atomica": 24.305,
 "valencia": "2",
-"categoria": "Alcalinoterreos"
+"categoria": "Alcalinoterreos",
+  "carga": ""
 },
 
 "Al": {
@@ -122,7 +134,8 @@
 "estado": "Solido",
 "masa_atomica": 26.982,
 "valencia": "3",
-"categoria": "Metal"
+"categoria": "Metal",
+  "carga": ""
 },
 
 "Si": {
@@ -132,7 +145,8 @@
 "estado": "Solido",
 "masa_atomica": 28.085,
 "valencia": "4",
-"categoria": "Semimetal"
+"categoria": "Semimetal",
+  "carga": ""
 },
 
 "P": {
@@ -142,7 +156,8 @@
 "estado": "Solido",
 "masa_atomica": 30.974,
 "valencia": "3, 5",
-"categoria": "Otros no metales"
+"categoria": "Otros no metales",
+  "carga": ""
 },
 
 "S": {
@@ -152,7 +167,8 @@
 "estado": "Solido",
 "masa_atomica": 32.06,
 "valencia": "2, 4, 6",
-"categoria": "Otros no metales"
+"categoria": "Otros no metales",
+  "carga": ""
 },
 
 "Cl": {
@@ -162,7 +178,8 @@
 "estado": "Gas",
 "masa_atomica": 35.453,
 "valencia": "1, 3, 5, 7",
-"categoria": "Halógeno"
+"categoria": "Halógeno",
+  "carga": ""
 },
 
 "Ar": {
@@ -172,7 +189,8 @@
 "estado": "Gas",
 "masa_atomica": 39.948,
 "valencia": "0",
-"categoria": "Gases nobles"
+"categoria": "Gases nobles",
+  "carga": ""
 },
 
 "K": {
@@ -182,7 +200,8 @@
 "estado": "Solido",
 "masa_atomica": 39.098,
 "valencia": "1",
-"categoria": "Alcalino"
+"categoria": "Alcalino",
+  "carga": ""
 },
 
 "Ca": {
@@ -192,7 +211,8 @@
 "estado": "Solido",
 "masa_atomica": 40.078,
 "valencia": "2",
-"categoria": "Alcalinoterreos"
+"categoria": "Alcalinoterreos",
+  "carga": ""
 },
 
 "Sc": {
@@ -202,7 +222,8 @@
 "estado": "Solido",
 "masa_atomica": 44.956,
 "valencia": "3",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Ti": {
@@ -212,7 +233,8 @@
 "estado": "Solido",
 "masa_atomica": 47.867,
 "valencia": "2, 3, 4",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "V": {
@@ -222,7 +244,8 @@
 "estado": "Solido",
 "masa_atomica": 50.942,
 "valencia": "2, 3, 4, 5",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Cr": {
@@ -232,7 +255,8 @@
 "estado": "Solido",
 "masa_atomica": 51.996,
 "valencia": "2, 3, 6",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Mn": {
@@ -242,7 +266,8 @@
 "estado": "Solido",
 "masa_atomica": 54.938,
 "valencia": "2, 3, 4, 7",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Fe": {
@@ -252,7 +277,8 @@
 "estado": "Solido",
 "masa_atomica": 55.845,
 "valencia": "2, 3",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Co": {
@@ -262,7 +288,8 @@
 "estado": "Solido",
 "masa_atomica": 58.933,
 "valencia": "2, 3",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Ni": {
@@ -272,7 +299,8 @@
 "estado": "Solido",
 "masa_atomica": 58.693,
 "valencia": "2, 3",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Cu": {
@@ -282,7 +310,8 @@
 "estado": "Solido",
 "masa_atomica": 63.546,
 "valencia": "1, 2",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Zn": {
@@ -292,7 +321,8 @@
 "estado": "Solido",
 "masa_atomica": 65.38,
 "valencia": "2",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Ga": {
@@ -302,7 +332,8 @@
 "estado": "Solido",
 "masa_atomica": 69.723,
 "valencia": "3",
-"categoria": "Metal"
+"categoria": "Metal",
+  "carga": ""
 },
 
 "Ge": {
@@ -312,7 +343,8 @@
 "estado": "Solido",
 "masa_atomica": 72.630,
 "valencia": "4",
-"categoria": "Semimetal"
+"categoria": "Semimetal",
+  "carga": ""
 },
 
 "As": {
@@ -322,7 +354,8 @@
 "estado": "Solido",
 "masa_atomica": 74.922,
 "valencia": "3, 5",
-"categoria": "Semimetal"
+"categoria": "Semimetal",
+  "carga": ""
 },
 
 "Se": {
@@ -332,7 +365,8 @@
 "estado": "Solido",
 "masa_atomica": 78.971,
 "valencia": "2, 4, 6",
-"categoria": "Otros no metales"
+"categoria": "Otros no metales",
+  "carga": ""
 },
 
 "Br": {
@@ -342,7 +376,8 @@
 "estado": "Liquido",
 "masa_atomica": 79.904,
 "valencia": "1, 3, 5, 7",
-"categoria": "Halógeno"
+"categoria": "Halógeno",
+  "carga": ""
 },
 
 "Kr": {
@@ -352,7 +387,8 @@
 "estado": "Gas",
 "masa_atomica": 83.798,
 "valencia": "0",
-"categoria": "Gases nobles"
+"categoria": "Gases nobles",
+  "carga": ""
 },
 
 "Rb": {
@@ -362,7 +398,8 @@
 "estado": "Solido",
 "masa_atomica": 85.468,
 "valencia": "1",
-"categoria": "Alcalino"
+"categoria": "Alcalino",
+  "carga": ""
 },
 
 "Sr": {
@@ -372,7 +409,8 @@
 "estado": "Solido",
 "masa_atomica": 87.620,
 "valencia": "2",
-"categoria": "Alcalinoterreos"
+"categoria": "Alcalinoterreos",
+  "carga": ""
 },
 
 "Y": {
@@ -382,7 +420,8 @@
 "estado": "Solido",
 "masa_atomica": 88.906,
 "valencia": "3",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Zr": {
@@ -392,7 +431,8 @@
 "estado": "Solido",
 "masa_atomica": 91.224,
 "valencia": "2, 4",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Nb": {
@@ -402,7 +442,8 @@
 "estado": "Solido",
 "masa_atomica": 92.906,
 "valencia": "3, 5",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Mo": {
@@ -412,7 +453,8 @@
 "estado": "Solido",
 "masa_atomica": 95.950,
 "valencia": "2, 3, 4, 5, 6",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Tc": {
@@ -422,7 +464,8 @@
 "estado": "Solido",
 "masa_atomica": 98.000,
 "valencia": "4, 5, 6, 7",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Ru": {
@@ -432,7 +475,8 @@
 "estado": "Solido",
 "masa_atomica": 101.070,
 "valencia": "2, 3, 4, 5, 6, 7, 8",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Rh": {
@@ -442,7 +486,8 @@
 "estado": "Solido",
 "masa_atomica": 102.906,
 "valencia": "2, 3, 4, 5, 6",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Pd": {
@@ -452,7 +497,8 @@
 "estado": "Solido",
 "masa_atomica": 106.420,
 "valencia": "2, 4",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Ag": {
@@ -462,7 +508,8 @@
 "estado": "Solido",
 "masa_atomica": 107.868,
 "valencia": "1",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Cd": {
@@ -472,7 +519,8 @@
 "estado": "Solido",
 "masa_atomica": 112.414,
 "valencia": "2",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "In": {
@@ -482,7 +530,8 @@
 "estado": "Solido",
 "masa_atomica": 114.818,
 "valencia": "3",
-"categoria": "Metal"
+"categoria": "Metal",
+  "carga": ""
 },
 
 "Sn": {
@@ -492,7 +541,8 @@
 "estado": "Solido",
 "masa_atomica": 118.710,
 "valencia": "2, 4",
-"categoria": "Metal"
+"categoria": "Metal",
+  "carga": ""
 },
 
 "Sb": {
@@ -502,7 +552,8 @@
 "estado": "Solido",
 "masa_atomica": 121.760,
 "valencia": "3, 5",
-"categoria": "Semimetal"
+"categoria": "Semimetal",
+  "carga": ""
 },
 
 "Te": {
@@ -512,7 +563,8 @@
 "estado": "Solido",
 "masa_atomica": 127.600,
 "valencia": "2, 4, 6",
-"categoria": "Semimetal"
+"categoria": "Semimetal",
+  "carga": ""
 },
 
 "I": {
@@ -522,7 +574,8 @@
 "estado": "Solido",
 "masa_atomica": 126.904,
 "valencia": "1, 3, 5, 7",
-"categoria": "Halógeno"
+"categoria": "Halógeno",
+  "carga": ""
 },
 
 "Xe": {
@@ -532,7 +585,8 @@
 "estado": "Gas",
 "masa_atomica": 131.293,
 "valencia": "0, 2, 4, 6, 8",
-"categoria": "Gases nobles"
+"categoria": "Gases nobles",
+  "carga": ""
 },
 
 "Cs": {
@@ -542,7 +596,8 @@
 "estado": "Solido",
 "masa_atomica": 132.906,
 "valencia": "1",
-"categoria": "Alcalino"
+"categoria": "Alcalino",
+  "carga": ""
 },
 
 "Ba": {
@@ -552,7 +607,8 @@
 "estado": "Solido",
 "masa_atomica": 137.328,
 "valencia": "2",
-"categoria": "Alcalinoterreos"
+"categoria": "Alcalinoterreos",
+  "carga": ""
 },
 
 "La": {
@@ -562,7 +618,8 @@
 "estado": "Solido",
 "masa_atomica": 138.905,
 "valencia": "3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Ce": {
@@ -572,7 +629,8 @@
 "estado": "Solido",
 "masa_atomica": 140.116,
 "valencia": "3, 4",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Pr": {
@@ -582,7 +640,8 @@
 "estado": "Solido",
 "masa_atomica": 140.908,
 "valencia": "3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Nd": {
@@ -592,7 +651,8 @@
 "estado": "Solido",
 "masa_atomica": 144.242,
 "valencia": "3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Pm": {
@@ -602,7 +662,8 @@
 "estado": "Solido",
 "masa_atomica": 145.000,
 "valencia": "3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Sm": {
@@ -612,7 +673,8 @@
 "estado": "Solido",
 "masa_atomica": 150.360,
 "valencia": "2, 3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Eu": {
@@ -622,7 +684,8 @@
 "estado": "Solido",
 "masa_atomica": 151.964,
 "valencia": "2, 3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Gd": {
@@ -632,7 +695,8 @@
 "estado": "Solido",
 "masa_atomica": 157.250,
 "valencia": "3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Tb": {
@@ -642,7 +706,8 @@
 "estado": "Solido",
 "masa_atomica": 158.925,
 "valencia": "3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Dy": {
@@ -652,7 +717,8 @@
 "estado": "Solido",
 "masa_atomica": 162.500,
 "valencia": "3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Ho": {
@@ -662,7 +728,8 @@
 "estado": "Solido",
 "masa_atomica": 164.930,
 "valencia": "3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Er": {
@@ -672,7 +739,8 @@
 "estado": "Solido",
 "masa_atomica": 167.259,
 "valencia": "3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Tm": {
@@ -682,7 +750,8 @@
 "estado": "Solido",
 "masa_atomica": 168.934,
 "valencia": "3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Yb": {
@@ -692,7 +761,8 @@
 "estado": "Solido",
 "masa_atomica": 173.045,
 "valencia": "2, 3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Lu": {
@@ -702,7 +772,8 @@
 "estado": "Solido",
 "masa_atomica": 174.967,
 "valencia": "3",
-"categoria": "Lantánido"
+"categoria": "Lantánido",
+  "carga": ""
 },
 
 "Hf": {
@@ -712,7 +783,8 @@
 "estado": "Solido",
 "masa_atomica": 178.490,
 "valencia": "4",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Ta": {
@@ -722,7 +794,8 @@
 "estado": "Solido",
 "masa_atomica": 180.948,
 "valencia": "5",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "W": {
@@ -732,7 +805,8 @@
 "estado": "Solido",
 "masa_atomica": 183.840,
 "valencia": "2, 3, 4, 5, 6",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Re": {
@@ -742,7 +816,8 @@
 "estado": "Solido",
 "masa_atomica": 186.207,
 "valencia": "4, 5, 6, 7",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Os": {
@@ -752,7 +827,8 @@
 "estado": "Solido",
 "masa_atomica": 190.230,
 "valencia": "2, 3, 4, 6, 8",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Ir": {
@@ -762,7 +838,8 @@
 "estado": "Solido",
 "masa_atomica": 192.217,
 "valencia": "2, 3, 4, 6",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Pt": {
@@ -772,7 +849,8 @@
 "estado": "Solido",
 "masa_atomica": 195.078,
 "valencia": "2, 4",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Au": {
@@ -782,7 +860,8 @@
 "estado": "Solido",
 "masa_atomica": 196.967,
 "valencia": "1, 3",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Hg": {
@@ -792,7 +871,8 @@
 "estado": "Líquido",
 "masa_atomica": 200.590,
 "valencia": "1, 2",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Tl": {
@@ -802,7 +882,8 @@
 "estado": "Solido",
 "masa_atomica": 204.383,
 "valencia": "1, 3",
-"categoria": "Metal"
+"categoria": "Metal",
+  "carga": ""
 },
 
 "Pb": {
@@ -812,7 +893,8 @@
 "estado": "Solido",
 "masa_atomica": 207.2,
 "valencia": "2, 4",
-"categoria": "Metal"
+"categoria": "Metal",
+  "carga": ""
 },
 
 "Bi": {
@@ -822,7 +904,8 @@
 "estado": "Solido",
 "masa_atomica": 208.980,
 "valencia": "3, 5",
-"categoria": "Metal"
+"categoria": "Metal",
+  "carga": ""
 },
 
 "Po": {
@@ -832,7 +915,8 @@
 "estado": "Sólido",
 "masa_atomica": 209.000,
 "valencia": "2, 4, 6",
-"categoria": "Semimetal"
+"categoria": "Semimetal",
+  "carga": ""
 },
 
 "At": {
@@ -842,7 +926,8 @@
 "estado": "Sólido",
 "masa_atomica": 210.000,
 "valencia": "1, 3, 5, 7",
-"categoria": "Halógeno"
+"categoria": "Halógeno",
+  "carga": ""
 },
 
 "Rn": {
@@ -852,7 +937,8 @@
 "estado": "Gas",
 "masa_atomica": 222.000,
 "valencia": "0",
-"categoria": "Gases nobles"
+"categoria": "Gases nobles",
+  "carga": ""
 },
 
 "Fr": {
@@ -862,7 +948,8 @@
 "estado": "Sólido",
 "masa_atomica": 223.000,
 "valencia": "1",
-"categoria": "Alcalino"
+"categoria": "Alcalino",
+  "carga": ""
 },
 
 "Ra": {
@@ -872,7 +959,8 @@
 "estado": "Sólido",
 "masa_atomica": 226.000,
 "valencia": "2",
-"categoria": "Alcalinoterreos"
+"categoria": "Alcalinoterreos",
+  "carga": ""
 },
 
 "Ac": {
@@ -882,7 +970,8 @@
 "estado": "Sólido",
 "masa_atomica": 227.000,
 "valencia": "3",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "Th": {
@@ -892,7 +981,8 @@
 "estado": "Sólido",
 "masa_atomica": 232.038,
 "valencia": "4",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "Pa": {
@@ -902,7 +992,8 @@
 "estado": "Sólido",
 "masa_atomica": 231.036,
 "valencia": "5",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "U": {
@@ -912,7 +1003,8 @@
 "estado": "Sólido",
 "masa_atomica": 238.029,
 "valencia": "4, 6",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "Np": {
@@ -922,7 +1014,8 @@
 "estado": "Sólido",
 "masa_atomica": 237.000,
 "valencia": "3, 4, 5, 6, 7",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "Pu": {
@@ -932,7 +1025,8 @@
 "estado": "Sólido",
 "masa_atomica": 244.000,
 "valencia": "3, 4, 5, 6, 7",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "Am": {
@@ -942,7 +1036,8 @@
 "estado": "Sólido",
 "masa_atomica": 243.000,
 "valencia": "2, 3, 4, 5, 6",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "Cm": {
@@ -952,7 +1047,8 @@
 "estado": "Sólido",
 "masa_atomica": 247.000,
 "valencia": "3",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "Bk": {
@@ -962,7 +1058,8 @@
 "estado": "Sólido",
 "masa_atomica": 247.000,
 "valencia": "3, 4",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "Cf": {
@@ -972,7 +1069,8 @@
 "estado": "Sólido",
 "masa_atomica": 251.000,
 "valencia": "2, 3",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "Es": {
@@ -982,7 +1080,8 @@
 "estado": "Desconocido",
 "masa_atomica": 252.000,
 "valencia": "3",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "Fm": {
@@ -992,7 +1091,8 @@
 "estado": "Desconocido",
 "masa_atomica": 257.000,
 "valencia": "2, 3",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "Md": {
@@ -1002,7 +1102,8 @@
 "estado": "Desconocido",
 "masa_atomica": 258.000,
 "valencia": "2, 3",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "No": {
@@ -1012,7 +1113,8 @@
 "estado": "Desconocido",
 "masa_atomica": 259.000,
 "valencia": "2, 3",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "Lr": {
@@ -1022,7 +1124,8 @@
 "estado": "Desconocido",
 "masa_atomica": 262.000,
 "valencia": "3",
-"categoria": "Actínido"
+"categoria": "Actínido",
+  "carga": ""
 },
 
 "Rf": {
@@ -1032,7 +1135,8 @@
 "estado": "Desconocido",
 "masa_atomica": 267.000,
 "valencia": "4",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Db": {
@@ -1042,7 +1146,8 @@
 "estado": "Desconocido",
 "masa_atomica": 270.000,
 "valencia": "5",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Sg": {
@@ -1052,7 +1157,8 @@
 "estado": "Desconocido",
 "masa_atomica": 271.000,
 "valencia": "6",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Bh": {
@@ -1062,7 +1168,8 @@
 "estado": "Desconocido",
 "masa_atomica": 270.000,
 "valencia": "7",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Hs": {
@@ -1072,7 +1179,8 @@
 "estado": "Desconocido",
 "masa_atomica": 277.000,
 "valencia": "8",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Mt": {
@@ -1082,7 +1190,8 @@
 "estado": "Desconocido",
 "masa_atomica": 276.000,
 "valencia": "9",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Ds": {
@@ -1092,7 +1201,8 @@
 "estado": "Desconocido",
 "masa_atomica": 281.000,
 "valencia": "10",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Rg": {
@@ -1102,7 +1212,8 @@
 "estado": "Desconocido",
 "masa_atomica": 280.000,
 "valencia": "11",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Cn": {
@@ -1112,7 +1223,8 @@
 "estado": "Desconocido",
 "masa_atomica": 285.000,
 "valencia": "12",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Nh": {
@@ -1122,7 +1234,8 @@
 "estado": "Desconocido",
 "masa_atomica": 284.000,
 "valencia": "13",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Fl": {
@@ -1132,7 +1245,8 @@
 "estado": "Desconocido",
 "masa_atomica": 289.000,
 "valencia": "14",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Mc": {
@@ -1142,7 +1256,8 @@
 "estado": "Desconocido",
 "masa_atomica": 288.000,
 "valencia": "15",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Lv": {
@@ -1152,7 +1267,8 @@
 "estado": "Desconocido",
 "masa_atomica": 293.000,
 "valencia": "16",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Ts": {
@@ -1162,7 +1278,8 @@
 "estado": "Desconocido",
 "masa_atomica": 294.000,
 "valencia": "17",
-"categoria": "Metal de transición"
+"categoria": "Metal de transición",
+  "carga": ""
 },
 
 "Og": {
@@ -1172,6 +1289,7 @@
 "estado": "Desconocido",
 "masa_atomica": 294.000,
 "valencia": "18",
-"categoria": "Gases nobles"
+"categoria": "Gases nobles",
+  "carga": ""
 }
 }
